@@ -1,0 +1,13 @@
+Procedure play_game():
+    1. Open the game website.
+    2. Wait for the game to start.
+    3. Loop through the numbers from 1 to 50:
+        a. Find the number on the game board.
+        b. Click on the number.
+        c. If the number is not found:
+            i. Print an error message.
+            ii. End the game.
+    4. End the game.
+    5. Print a success message.
+
+Call play_game()
